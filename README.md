@@ -1,8 +1,8 @@
 ### Hi there 👋
 👋 Hi, I’m @Bowen-Yeung
 
-👀 I’m interested in Optical and Mechanical engineering
+👀 I’m an Optical Product Engineer
 
-🌱 I’m currently learning ML & Computer Vision @Python
+🌱 I’m currently learning ML & Computer/Machine Vision @Python
 
 📫 How to reach me hirobumi_yang@yahoo.com
