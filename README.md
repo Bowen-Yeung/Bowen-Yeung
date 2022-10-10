@@ -5,4 +5,3 @@
 
 🌱 I’m currently learning ML & Computer/Machine Vision @Python
 
-📫 How to reach me hirobumi_yang@yahoo.com
